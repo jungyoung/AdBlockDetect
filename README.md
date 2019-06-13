@@ -7,6 +7,7 @@ Supported browsers for the AdSense interface
 https://support.google.com/adsense/answer/191268?hl=en
 
 EX)
+<pre>
 <code>
 <script src="AdBlockDetect.js"></script>
 <script type="text/javascript">
@@ -19,3 +20,4 @@ AdBlockDetect(function(isBlock) {
 });
 </script>
 </code>
+</pre>
